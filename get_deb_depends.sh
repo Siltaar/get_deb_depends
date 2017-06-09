@@ -2,7 +2,7 @@
 
 # Date : 2017-06-10
 # Licence : GPLv3 (see the LICENCE file)
-# Author : Simon Descarpentries <siltaar /\ acoeuro.com)
+# Author : Simon Descarpentries <siltaar /\ acoeuro.com>
 
 # Usage : ./get_deb_depends.sh <package-name> <depends-string> [<wanted-architecture>]
 #	depends-string is the text part of your (may be) localized `apt-cache depends` answer :
