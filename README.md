@@ -7,7 +7,3 @@
 Strongly inspired from better answers of this thread : https://stackoverflow.com/a/39968534
 
 Depends on `apt-rdepends`.
-
-* Date : 2017-06-10
-* Licence : GPLv3 (see the LICENCE file)
-* Author : Simon Descarpentries <siltaar /\ acoeuro.com>
