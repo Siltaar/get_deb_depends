@@ -4,6 +4,6 @@
 
 `wanted-architecture` : if using multiarch you can specify which one to download (amd64 [default], i386…)
 
-Strongly inspired from better answers of this thread : https://stackoverflow.com/a/39968534
+Strongly inspired from best answers of this thread : https://stackoverflow.com/a/39968534
 
 Depends on `apt-rdepends`.
